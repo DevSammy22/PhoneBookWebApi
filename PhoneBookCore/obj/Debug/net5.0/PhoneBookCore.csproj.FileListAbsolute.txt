@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\bin\Debug\net5.0\PhoneBookCore.deps.json
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\bin\Debug\net5.0\PhoneBookCore.dll
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\bin\Debug\net5.0\ref\PhoneBookCore.dll
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\bin\Debug\net5.0\PhoneBookCore.pdb
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\obj\Debug\net5.0\PhoneBookCore.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\obj\Debug\net5.0\PhoneBookCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\obj\Debug\net5.0\PhoneBookCore.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\obj\Debug\net5.0\PhoneBookCore.AssemblyInfo.cs
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\obj\Debug\net5.0\PhoneBookCore.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\obj\Debug\net5.0\PhoneBookCore.dll
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\obj\Debug\net5.0\ref\PhoneBookCore.dll
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\obj\Debug\net5.0\PhoneBookCore.pdb
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\bin\Debug\net5.0\PhoneBookInfrastructure.dll
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\bin\Debug\net5.0\PhoneBookInfrastructure.pdb
+C:\Users\hp\source\repos\PhoneBookApi\PhoneBookCore\obj\Debug\net5.0\PhoneBookCore.csproj.CopyComplete
